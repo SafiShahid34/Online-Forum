@@ -1,0 +1,114 @@
+@charset "ISO-8859-1";
+
+#df{
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    display: inline-block;
+    float: right;
+}
+
+#outtie3{
+    
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    float: right;
+    margin-right: 20%;
+    margin-top: 3%;
+}
+#log:hover{
+    cursor: pointer;
+}
+#inner{
+    font-size: 15px;
+}
+.log{
+    border-radius: 5px;
+    border: black 2px solid;
+    width:100px;
+    margin-left: 200px;
+    background-color: rgb(56, 56, 56);
+}
+.tot{
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+input{
+    float: right;
+    margin-right: 100px;
+    margin-top: 10px;
+    width: 250px;
+}
+label{
+    margin-right: 25px;
+    font-size: 30px;
+}
+.theme{
+    color: rgb(224, 224, 224);
+    font-family: 'Sedgwick Ave', cursive;
+    text-shadow: 2px 2px 4px black;
+}
+.tle{
+    font-size: 45px;
+    color: rgb(224, 224, 224);
+    font-family: 'Sedgwick Ave', cursive;
+    text-shadow: 2px 2px 4px black;
+    margin-bottom: 0;
+    margin-top: 20px;
+    
+}
+.tl{
+    font-size: 15px;
+    opacity: 0.5;
+    color: rgb(255, 255, 255);
+    font-family: 'Sedgwick Ave', cursive;
+    text-shadow: 2px 2px 4px black;
+}
+#bon{
+    
+    padding-left: 30px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+#son2{
+    padding-left: 30px;
+    padding-top: 15px;
+    margin-bottom: 30px;
+}
+#son{
+    
+    margin-top: 6%;
+}
+#outtie{
+    margin-left: 14%;
+    margin-top: 3%;
+    height: 400px;
+    
+    width: 550px;
+    display: inline-block;
+}
+#con{
+    margin-left: 39%;
+    margin-right: 39%;
+    width: 50%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+    
+#title{
+    font-size: 60px;
+    color: rgb(224, 224, 224);
+    font-family: 'Sedgwick Ave', cursive;
+    text-shadow: 2px 2px 4px black;
+}
+
+body{
+    background: linear-gradient(rgb(75, 168, 255), rgb(93, 177, 255),rgb(123, 191, 255), rgb(153, 206, 255), rgb(166, 210, 250), rgb(181, 218, 252), rgb(187, 222, 255), rgb(197, 227, 255));
+}
+
+    
+#log2{
+    margin-left: 75px;
+    margin-top: 25px;
+}
+    

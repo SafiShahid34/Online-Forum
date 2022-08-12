@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+body{
+		height: 100%;
+	    margin: 0;
+	    height: 100%;
+        background: linear-gradient(rgb(75, 168, 255), rgb(93, 177, 255),rgb(123, 191, 255), rgb(153, 206, 255), rgb(166, 210, 250), rgb(181, 218, 252), rgb(187, 222, 255), rgb(197, 227, 255));
+        background-repeat: no-repeat;
+        min-height: 500px;
+    }
+
+#con{
+        margin-left: 39%;
+        margin-right: 39%;
+        width: 50%;
+        margin-top: 2%;
+        margin-bottom: 0%;
+    }
+
+#title{
+        font-size: 60px;
+        color: rgb(224, 224, 224);
+        font-family: 'Sedgwick Ave', cursive;
+        text-shadow: 2px 2px 4px black;
+    }
+
+tr{
+    border: black solid 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    width: 100%;
+}
+
+table{
+    border: 5px solid black;
+    width: 1000px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+  
+
+    
